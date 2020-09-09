@@ -5,12 +5,13 @@
 def square_root(number: int) -> float:
     # TODO completer la fonction
     return number**0.5
+    math
 
 
 def square(number: int) -> int:
     # TODO completer la fonction
     return number**2
-    math.
+    math.pow(number, 2)
 
 
 def main() -> None:
