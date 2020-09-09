@@ -12,6 +12,7 @@ def square(number: int) -> int:
     # TODO completer la fonction
     return math.pow(number, 2)
     
+   #couc 
 
 def main() -> None:
     for i in range(25):
